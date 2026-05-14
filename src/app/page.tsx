@@ -65,7 +65,7 @@ export default function Home() {
                   onChange={e => setNome(e.target.value)}
                   required
                   className="input-modern"
-                  placeholder="Digite seu nome"
+                  placeholder="Digite seu nome:"
                 />
               </div>
 
